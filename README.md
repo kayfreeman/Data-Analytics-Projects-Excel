@@ -45,12 +45,15 @@ Our team of experts includes Research Scientists, Laboratory Technicians, Health
 -   elationshipSatisfaction: The employee's satisfaction with their relationships. It is a categorical variable with four values: "Low", "Medium", "High", and "Very High".
 -   WorkLifeBalance: The employee's perception of their work-life balance. It is a categorical variable with four values: "Bad", "Good", "Better", and "Best
 
-## Data Analysis 
+## Questions 
 • What is the average age of employees, and how does this vary across departments?
+![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/e0ac1aa8-626c-40e9-b06a-aaea0f39f42e)
 
 • What is the distribution of education levels within the company, and is there a predominant education field among employees?
+![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/eeed7cd5-3524-424c-94b2-f824842de738)
 
 • How satisfied are employees with their work environment?
+![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/75f76a0a-59d3-4b2c-9300-12da817b6f72)
 
 • Do you think the longer an employee commutes to the office, the higher their monthly take home? What of a relationship between years at company and percent salary hike?
 

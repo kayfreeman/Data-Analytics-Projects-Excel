@@ -1,6 +1,16 @@
 # Health Quest Medicals Analytics
 ![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/f0010568-09d0-4938-a992-626529b83d99)
 
+## TABLE OF CONTENTS
+- [Project Overview](#project-overview)
+- [Data Dictionary](#data-dictionary)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Limitation](#limitation)
+
 ## Introduction
 Health Quest Medicals, a leading pharmaceutical company is committed to delivering high-quality medical solutions. Our mission is to improve the health and well-being of patients through cutting-edge research and development, advanced technologies, and innovative treatments.
 Our team of experts includes Research Scientists, Laboratory Technicians, Healthcare Representatives, Research Directors etc.,  all work together to ensure that our patients receive the best possible pharmaceutical care. We are dedicated to staying at the forefront of medical advancements, and our research and development efforts are aimed at bringing new pharmaceutical products to market that meet the evolving needs of patients. At Health Quest Medicals, we understand the importance of pharmaceutical care. We are dedicated to improving the health and well-being of our patients and are proud to serve the communities in which we operate.
@@ -55,19 +65,19 @@ Our team of experts includes Research Scientists, Laboratory Technicians, Health
 • How satisfied are employees with their work environment?
 ![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/75f76a0a-59d3-4b2c-9300-12da817b6f72)
 
-• Do you think the longer an employee commutes to the office, the higher their monthly take home? What of a relationship between years at company and percent salary hike?
+• Do you think the longer an employee commutes to the office, the higher their monthly take home? What of the relationship between years at the company and percent salary hike?
 
 • What is the average monthly income of employees per department, and what is the corresponding deviation from this value?
 
-• Is there Gender discrimination in terms of renumeration?
+• Is there Gender discrimination in terms of remuneration?
 
-• Considering the monthly income of employees, which Job role has the lowest income range. Provide a pictorial representation.
+• Considering the monthly income of employees, which Job role has the lowest income range? Provide a pictorial representation.
 
 • What is the distribution of the years, when employees were last promoted?
 
-• What is the attrition rate within the company.
+• What is the attrition rate within the company?
 
-• What is the median income distribution across educational levels.
+• What is the median income distribution across educational levels?
 
 • Determine the median Age for employees who have and have not worked overtime. What might this indicate about the potential health impacts of overtime?
 

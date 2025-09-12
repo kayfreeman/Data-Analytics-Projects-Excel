@@ -1,86 +1,66 @@
-# Health Quest Medicals Analytics
-![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/f0010568-09d0-4938-a992-626529b83d99)
+# 📊 My Data Analytics Projects in Excel
 
-## TABLE OF CONTENTS
-- [Project Overview](#project-overview)
-- [Data Dictionary](#data-dictionary)
-- [Tools](#tools)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Findings](#findings)
-- [Limitation](#limitation)
+Hi, and welcome to my collection of **data analytics projects built entirely in Microsoft Excel**.  
+I created this repository to show how much can be achieved with Excel alone — from cleaning and transforming raw data to building dashboards and generating insights that could guide real-world decision-making.  
 
-## Introduction
-Health Quest Medicals, a leading pharmaceutical company is committed to delivering high-quality medical solutions. Our mission is to improve the health and well-being of patients through cutting-edge research and development, advanced technologies, and innovative treatments.
-Our team of experts includes Research Scientists, Laboratory Technicians, Healthcare Representatives, Research Directors etc.,  all work together to ensure that our patients receive the best possible pharmaceutical care. We are dedicated to staying at the forefront of medical advancements, and our research and development efforts are aimed at bringing new pharmaceutical products to market that meet the evolving needs of patients. At Health Quest Medicals, we understand the importance of pharmaceutical care. We are dedicated to improving the health and well-being of our patients and are proud to serve the communities in which we operate.
+These projects are not just exercises — they reflect my interest in solving problems across industries, and they highlight my ability to make data useful, clear, and actionable.
 
-## Data Dictionary
-- Age:  The age of the employee. (Numerical)
-- Attrition: Whether or not the employee has left the organization. (Categorical)
-- EmployeeNumber; A unique identifier for each employee profile. (Numerical)
-- Gender; The gender of the employee. (Categorical)
-- BusinessTravel; The frequency of business travel for the employee. (Categorical)
-- Department; The department the employee works in. (Categorical)
-- DistanceFromHome; The distance from home in miles for the employee. (Numerical)
-- Education; The level of education achieved by the employee. (Categorical)
-- EducationField; The field of study for the employee's education. (Categorical)
-- EnvironmentSatisfaction; The employee's satisfaction with their work environment. (Categorical)
-- JobInvolvement; The level of involvement required for the employee's job. (Categorical)
-- JobLevel; The job level of the employee. (Categorical)
-- JobRole; The role of the employee in the organization. (Categorical)
-- JobSatisfaction; The employee's satisfaction with their job. (Categorical)
-- MaritalStatus The marital status of the employee. (Categorical)
-- MonthlyIncome; The monthly income of the employee. (Numerical)
-- NumCompaniesWorked; The number of companies the employee has worked for. (Numerical)
-- Over18; Whether or not the employee is over 18. (Categorical)
-- OverTime; Whether or not the employee works overtime. (Categorical)
-- PercentSalaryHike; The percentage of salary hike for the employee. (Numerical)
-- PerformanceRating; The performance rating of the employee. (Categorical)
-- RelationshipSatisfaction; The employee's satisfaction with their relationships. (Categorical)
-- TotalWorkingYears; The total number of years the employee has worked. (Numerical)
-- TrainingTimesLastYear; The number of times the employee was taken for training in the last year. (Numerical)
-- WorkLifeBalance; The employee's perception of their work-life balance. (Categorical)
-- YearsAtCompany; The number of years the employee has been with the company. (Numerical)
-- YearsInCurrentRole; The number of years the employee has been in their current role. (Numerical)
-- YearsSinceLastPromotion; The number of years since the employee's last promotion. (Numerical)
-- YearsWithCurrManager; The number of years the employee has been with their current manager. (Numerical)
+------
 
-## Extra Information
-- Education: The level of education achieved by the employee. It is a categorical variable with five values: "Below College", "College", "Bachelor", "Master", and "Doctor".
--  EnvironmentSatisfaction: The employee's satisfaction with their work environment. It is a categorical variable with four values: "Low", "Medium", "High", and "Very High".
--  JobInvolvement: The level of involvement required for the employee's job. It is a categorical variable with four values: "Low", "Medium", "High", and "Very High".
--  JobLevel: The job level of the employee. It is a categorical variable with five values: "Entry Level", "Intermediate Level 1", "Intermediate Level 2", "Advanced Level", and "Executive Level".
--  JobSatisfaction: The employee's satisfaction with their job. It is a categorical variable with four values: "Low", "Medium", "High", and "Very High".
--   elationshipSatisfaction: The employee's satisfaction with their relationships. It is a categorical variable with four values: "Low", "Medium", "High", and "Very High".
--   WorkLifeBalance: The employee's perception of their work-life balance. It is a categorical variable with four values: "Bad", "Good", "Better", and "Best
+## 🔍 What You'll Find Here
 
-## Questions 
-• What is the average age of employees, and how does this vary across departments?
-![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/e0ac1aa8-626c-40e9-b06a-aaea0f39f42e)
+I’ve organized my projects by industry and domain:  
 
-• What is the distribution of education levels within the company, and is there a predominant education field among employees?
-![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/eeed7cd5-3524-424c-94b2-f824842de738)
+- 🏥 **Healthcare** – Patient metrics, hospital performance, health outcomes  
+- 💰 **Finance** – Budgeting, expense tracking, financial ratio analysis  
+- 📈 **Investment** – Portfolio tracking, risk assessment, stock performance  
+- 🗳️ **Politics (Elections)** – Voter turnout, election result trends, regional analysis  
+- 🚗 **Transportation** – Traffic flow, public transport, route efficiency  
+- 🌾 **Agriculture** – Crop yield trends, seasonal variations, market pricing  
+- 🛍️ **Consumer Behavior**  
+  - Discretionary – Retail sales, product demand, trend analysis  
+  - Staples – Essential goods consumption patterns  
+  - Services – Customer behavior and service usage  
+- 🏠 **Real Estate** – Property price trends, rental market comparisons  
+- 📺 **Media** – Audience statistics, content performance  
+- ⚡ **Utilities** – Energy and water consumption efficiency  
+- 🏨 **Hospitality & Tourism** – Hotel occupancy, seasonal travel trends  
+- 🏗️ **Construction** – Project monitoring, cost tracking  
+- 🔋 **Energy** – Generation, consumption, and source mix  
+- 👔 **Jobs & Employment** – Labor market trends, unemployment analysis, hiring data  
 
-• How satisfied are employees with their work environment?
-![image](https://github.com/kayfreeman/Health-Quest-Medicals-/assets/46418844/75f76a0a-59d3-4b2c-9300-12da817b6f72)
+------
 
-• Do you think the longer an employee commutes to the office, the higher their monthly take home? What of the relationship between years at the company and percent salary hike?
+## 📂 How Each Project is Structured
 
-• What is the average monthly income of employees per department, and what is the corresponding deviation from this value?
+Every project folder includes:  
 
-• Is there Gender discrimination in terms of remuneration?
+- 📁 **Raw or Sample Data** (sometimes anonymized or simulated)  
+- 🧹 **Data Cleaning** (Power Query or formulas)  
+- 📊 **Analysis** (PivotTables, lookups, and functions)  
+- 📈 **Dashboards** (charts, slicers, KPIs)  
+- 📝 **Key Insights** — my takeaways from the analysis  
 
-• Considering the monthly income of employees, which Job role has the lowest income range? Provide a pictorial representation.
+------
 
-• What is the distribution of the years, when employees were last promoted?
+## 💡 Why I Chose Excel
+Yes, I know — Python, R, and Power BI are powerful. But Excel is still everywhere in business, and I want to show how far I could push myself and the application in my learning journey.  
 
-• What is the attrition rate within the company?
+For me, I observed that Excel is more than a spreadsheet — it’s a full analytics solution for newbies (The projects I downloaded and worked proved this!!). In this journey, I noticed with the right approach and attitude,I can:  
+- Clean and reshape messy data  
+- Build dashboards that decision-makers can use instantly  
+- Tell a story with data without leaving Excel  
 
-• What is the median income distribution across educational levels?
+------
 
-• Determine the median Age for employees who have and have not worked overtime. What might this indicate about the potential health impacts of overtime?
+## 📌 Notes
+- All data is **public, anonymized, or simulated**.  
+- I add new projects regularly as I learn new techniques or explore different industries.  
 
-• Compare the frequented JobSatisfaction ratings across different Departments. What can you deduce?
+------
 
+**[THIS CURATED PROJECTS HAS TAKEN ME FIVE (5) YEARS TO PUT TOGETHER AS I DOCUMENT MY LEARNING JOURNEY]**
+
+
+Thanks for stopping by — I hope you enjoy exploring these projects as much as I enjoyed building them. 🚀  
 

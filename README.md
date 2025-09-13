@@ -1,66 +1,76 @@
 # 📊 My Data Analytics Projects in Excel
+I built this repository to show how far you can push Excel as a **full analytics tool** — from cleaning messy data to building interactive dashboards that tell a clear story and help guide real-world decisions.
 
-Hi, and welcome to my collection of **data analytics projects built entirely in Microsoft Excel**.  
-I created this repository to show how much can be achieved with Excel alone — from cleaning and transforming raw data to building dashboards and generating insights that could guide real-world decision-making.  
+These projects aren’t just exercises. They reflect my genuine curiosity and passion for solving problems across different industries, while demonstrating my growing expertise in making data meaningful and actionable.
 
-These projects are not just exercises — they reflect my interest in solving problems across industries, and they highlight my ability to make data useful, clear, and actionable.
-
-------
+---
 
 ## 🔍 What You'll Find Here
 
-I’ve organized my projects by industry and domain:  
+I’ve organized my projects by industry and domain, including:
 
-- 🏥 **Healthcare** – Patient metrics, hospital performance, health outcomes  
-- 💰 **Finance** – Budgeting, expense tracking, financial ratio analysis  
-- 📈 **Investment** – Portfolio tracking, risk assessment, stock performance  
-- 🗳️ **Politics (Elections)** – Voter turnout, election result trends, regional analysis  
-- 🚗 **Transportation** – Traffic flow, public transport, route efficiency  
-- 🌾 **Agriculture** – Crop yield trends, seasonal variations, market pricing  
-- 🛍️ **Consumer Behavior**  
-  - Discretionary – Retail sales, product demand, trend analysis  
-  - Staples – Essential goods consumption patterns  
-  - Services – Customer behavior and service usage  
-- 🏠 **Real Estate** – Property price trends, rental market comparisons  
-- 📺 **Media** – Audience statistics, content performance  
-- ⚡ **Utilities** – Energy and water consumption efficiency  
-- 🏨 **Hospitality & Tourism** – Hotel occupancy, seasonal travel trends  
-- 🏗️ **Construction** – Project monitoring, cost tracking  
-- 🔋 **Energy** – Generation, consumption, and source mix  
-- 👔 **Jobs & Employment** – Labor market trends, unemployment analysis, hiring data  
+- 👔 **Employment & Jobs** — Analyzing global trends in tech and data jobs  
+- 🏥 **Healthcare** — Patient metrics and hospital performance insights  
+- 💰 **Finance** — Budgeting, expense tracking, and financial ratios  
+- 📈 **Investment** — Portfolio tracking and risk analysis  
+- 🗳️ **Politics & Elections** — Voter turnout and election trends  
+- 🚗 **Transportation** — Traffic flow and public transit analysis  
+- 🌾 **Agriculture** — Crop yields, seasonal trends, and pricing  
+- 🛍️ **Consumer Behavior** — Retail sales, essentials, and services  
+- 🏠 **Real Estate** — Housing market and rental comparisons  
+- 📺 **Media** — Audience stats and content performance  
+- ⚡ **Utilities** — Energy and water usage trends  
+- 🏨 **Hospitality & Tourism** — Travel trends and occupancy rates  
+- 🏗️ **Construction** — Project monitoring and cost tracking  
+- 🔋 **Energy** — Generation, consumption, and sources mix
 
-------
+Each folder contains data, cleaned and transformed within Excel, plus dashboards and insights that highlight key takeaways.
 
-## 📂 How Each Project is Structured
+---
 
-Every project folder includes:  
+## 🚀 Why Excel?
 
-- 📁 **Raw or Sample Data** (sometimes anonymized or simulated)  
-- 🧹 **Data Cleaning** (Power Query or formulas)  
-- 📊 **Analysis** (PivotTables, lookups, and functions)  
-- 📈 **Dashboards** (charts, slicers, KPIs)  
-- 📝 **Key Insights** — my takeaways from the analysis  
+While I admire and use tools like Python and Power BI, I believe Excel remains the **most accessible and versatile analytics tool** in business worldwide. I wanted to challenge myself to see how far I could push it — and I’m proud of the results.
 
-------
+Using Excel, I’ve learned to:
 
-## 💡 Why I Chose Excel
-Yes, I know — Python, R, and Power BI are powerful. But Excel is still everywhere in business, and I want to show how far I could push myself and the application in my learning journey.  
+- Clean and reshape complex, messy datasets  
+- Build dashboards that are intuitive and ready for decision-makers  
+- Tell compelling data stories without ever leaving a spreadsheet  
 
-For me, I observed that Excel is more than a spreadsheet — it’s a full analytics solution for newbies (The projects I downloaded and worked proved this!!). In this journey, I noticed with the right approach and attitude,I can:  
-- Clean and reshape messy data  
-- Build dashboards that decision-makers can use instantly  
-- Tell a story with data without leaving Excel  
+---
 
-------
+## 🗂️ Explore the Projects
+
+Click the folders below to dive into each project:
+
+### 👔 [Employment & Jobs](./Employment%20&%20Jobs)  
+Explore global data job trends using Luke Barousse’s dataset, with monthly time-series analysis and dashboards.
+
+### 🏥 [Healthcare](./Healthcare)  
+Insights into patient outcomes and hospital performance, visualized through interactive Excel reports.
+
+### 💰 [Finance](./Finance)  
+Budget models, expense tracking, and financial ratio analysis built completely in Excel.
+
+*(Add more project links here as you build out your repo)*
+
+---
 
 ## 📌 Notes
-- All data is **public, anonymized, or simulated**.  
-- I add new projects regularly as I learn new techniques or explore different industries.  
 
-------
+- All data is public, anonymized, or simulated.  
+- I update this portfolio regularly as I learn and explore new domains.  
+- This collection represents **five years** of continuous learning and hands-on practice.
 
-**[THIS CURATED PROJECTS HAS TAKEN ME FIVE (5) YEARS TO PUT TOGETHER AS I DOCUMENT MY LEARNING JOURNEY]**
+---
 
+## 👋 About Me
 
-Thanks for stopping by — I hope you enjoy exploring these projects as much as I enjoyed building them. 🚀  
+I’m a passionate data enthusiast on a journey to master data analytics through Excel. I love turning raw numbers into clear, actionable insights that can help organizations make smarter decisions.
 
+Let’s connect!  
+- GitHub: [@kayfreeman](https://github.com/kayfreeman)  
+- LinkedIn: *(Add your link here)*
+
+Thanks for stopping by — I hope you find these projects as rewarding to explore as I found building them. 🚀

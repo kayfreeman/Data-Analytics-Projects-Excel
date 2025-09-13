@@ -1,0 +1,10 @@
+## 📦 Dataset
+
+The analysis in this project is based on a public dataset provided by **Luke Barousse**.
+
+🗂️ **File**: [`data_jobs_monthly_Luke_Barousse.zip`](./data_jobs_monthly_Luke_Barousse.zip)
+
+- Contains 12 monthly records of job postings related to data roles (e.g., data analyst, data scientist, data engineer).
+- Data includes location, job title, posting date, and more.
+
+📌 *All rights to the original dataset belong to Luke Barousse. This project uses it for educational purposes only.*
